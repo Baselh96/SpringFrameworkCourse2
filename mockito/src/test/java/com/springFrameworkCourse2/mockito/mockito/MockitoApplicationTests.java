@@ -1,0 +1,13 @@
+package com.springFrameworkCourse2.mockito.mockito;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MockitoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
